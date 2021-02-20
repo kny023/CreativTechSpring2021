@@ -3,6 +3,7 @@ main {width:750px; margin-left:auto; margin-right:auto;}
 
 h1 {font-size: 300%;} 
 h2 {font-size: 200%;} 
+h3 {color: rgb(253, 195, 2);}
 p {font-size: 100%;}
 
 body{background-color:#c3e6ec;}
